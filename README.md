@@ -1,5 +1,7 @@
 # CS336_Final
 
+Team: Trevor Edewaard, Kris Brink
+
 Media Catalog
 Vision Statement:
 	Our web application is a media catalog that caters towards music, books, movies and even video games. Now days, people amass collections of media in different forms. Our media catalog aims to bring those collections together into one centralized place where the records can be entered, deleted, sorted and presented in different ways for the user to better visualize their collections.
